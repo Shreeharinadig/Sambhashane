@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208301508908",
+    "project_id": "sambhashane-43194",
+    "storage_bucket": "sambhashane-43194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208301508908:android:1b939827e89820be184489",
+        "android_client_info": {
+          "package_name": "com.ShreeHariNadigBM.sambhashane"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0bpW5JIsR3dY9S0CIN1b6ACJzJM0rrAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
